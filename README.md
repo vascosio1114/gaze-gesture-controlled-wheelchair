@@ -84,10 +84,13 @@ The project was presented under the title:
 
 ---
 
-## 📄 Project Report
+## 📄 Project Materials
 
-📘 **Full technical report (PDF):**  
-👉 https://github.com/vascosio1114/gaze-gesture-controlled-wheelchair/blob/main/gaze-gesture-controlled-wheelchair-report.pdf
+📘 **Full Technical Report (PDF):**  
+👉 [gaze-gesture-controlled-wheelchair-report.pdf](report/gaze-gesture-controlled-wheelchair-report.pdf)
+
+🖼️ **Project Poster (PDF):**  
+👉 [gaze-gesture-controlled-wheelchair-poster.pdf](poster/gaze-gesture-controlled-wheelchair-poster.pdf)
 
 The report includes:
 - Background research and motivation  
@@ -101,7 +104,7 @@ The report includes:
 ## 👤 Author
 
 **Kei Chon Sio**  
-Research Project (2022)   
+Research Project (2022)
 
 📫 Contact: keichonsio1114@gmail.com
 
