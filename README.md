@@ -87,7 +87,7 @@ The project was presented under the title:
 ## 📄 Project Report
 
 📘 **Full technical report (PDF):**  
-👉 [gaze-gesture-controlled-wheelchair-report.pdf](report/gaze-gesture-controlled-wheelchair-report.pdf)
+👉 https://github.com/vascosio1114/gaze-gesture-controlled-wheelchair/blob/main/gaze-gesture-controlled-wheelchair-report.pdf
 
 The report includes:
 - Background research and motivation  
