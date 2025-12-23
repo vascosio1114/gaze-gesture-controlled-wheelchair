@@ -101,9 +101,16 @@ The report includes:
 ## 👤 Author
 
 **Kei Chon Sio**  
-Interests: Data Analytics, Python, Computer Vision, Accessibility Technology  
+Research Project (2022)   
 
 📫 Contact: keichonsio1114@gmail.com
+
+---
+
+## 🎓 Supervisor
+
+**Kuok Chon Kit**  
+Project Supervisor
 
 ---
 
